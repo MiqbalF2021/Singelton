@@ -25,4 +25,3 @@
 ### Delete User: 
 #### Jika Anda ingin menghapus pengguna dari daftar, Anda dapat memilih pengguna berdasarkan indeksnya. Setelah pengguna dihapus, Anda akan menerima pesan konfirmasi.
 
-### Program ini mengimplementasikan desain singleton, yang memastikan bahwa hanya ada satu instance dari manajer pengguna yang digunakan dalam seluruh aplikasi. Dengan demikian, data pengguna yang Anda tambahkan akan tetap ada selama aplikasi berjalan.

@@ -6,8 +6,8 @@
 ## Kelas IF B
 
 
-## Deskripsi aplikasi{
-### Aplikasi ini adalah sebuah program CRUD sederhana yang digunakan untuk mengelola User. Dengan aplikasi ini, Anda dapat CREATE, READ, UPDATE, dan DELETE pengguna melalui menu yang ditampilkan di terminal.}
+## Deskripsi aplikasi
+### Aplikasi ini adalah sebuah program CRUD sederhana yang digunakan untuk mengelola User. Dengan aplikasi ini, Anda dapat CREATE, READ, UPDATE, dan DELETE pengguna melalui menu yang ditampilkan di terminal.
 
 ### Program ini mengimplementasikan desain singleton, yang memastikan bahwa hanya ada satu instance dari manajer pengguna yang digunakan dalam seluruh aplikasi. Dengan demikian, data pengguna yang Anda tambahkan akan tetap ada selama aplikasi berjalan.
 

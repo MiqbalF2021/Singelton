@@ -11,6 +11,8 @@
 
 ### Program ini mengimplementasikan desain singleton, yang memastikan bahwa hanya ada satu instance dari User Manager yang digunakan dalam seluruh aplikasi. Dengan demikian, data pengguna yang Anda tambahkan akan tetap ada selama aplikasi berjalan.
 
+### Program ini juga mengusung konsep berbasi object Oriented Programming yang didalamnya ada inheritance, encapsulation, abstraction dan polymorphism.
+
 ## Program ini memiliki fitur-fitur berikut:
 
 ### Create User: 

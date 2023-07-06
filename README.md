@@ -15,6 +15,7 @@
 
 ### Create User: 
 #### Anda dapat membuat pengguna baru dengan memasukkan nama dan alamat email pengguna. Setelah pengguna berhasil dibuat, Anda akan menerima pesan konfirmasi.
+#### Anda dapat memilih untuk membuat akun admin user atau regular user dengan memasukkan nama dan alamat email pengguna. Setelah pengguna berhasil dibuat, Anda akan menerima pesan konfirmasi.
 
 ### Read Users: 
 #### Anda dapat melihat daftar semua pengguna yang telah Anda tambahkan sebelumnya. Informasi pengguna, termasuk nama dan alamat email, akan ditampilkan di terminal.
